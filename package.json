@@ -1,0 +1,30 @@
+{
+  "name": "interactive-comments-back",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Repository to train mondoDB, nodejs, and reac. Ma",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/AlanF20/interactive-com-back.git"
+  },
+  "author": "AlanF20",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlanF20/interactive-com-back/issues"
+  },
+  "homepage": "https://github.com/AlanF20/interactive-com-back#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "6.8.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20",
+    "standard": "^17.0.0"
+  }
+}
